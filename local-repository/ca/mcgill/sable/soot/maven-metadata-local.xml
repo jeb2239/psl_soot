@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ca.mcgill.sable</groupId>
+  <artifactId>soot</artifactId>
+  <versioning>
+    <release>NIGHTLY</release>
+    <versions>
+      <version>NIGHTLY</version>
+    </versions>
+    <lastUpdated>20161226155957</lastUpdated>
+  </versioning>
+</metadata>
